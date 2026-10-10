@@ -1,0 +1,6 @@
+{
+  "name": "Amideast Access",
+  "description": "Collaborative workspace for Amideast Access students featuring AI Accent Evaluator, Conversational AI Tutor, and assignments & activities management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
